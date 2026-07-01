@@ -206,6 +206,7 @@ Joseph Smith instituted the practice as doctrine publicly in 1843.
 - [podcast: year of polygamy](https://www.yearofpolygamy.com/) – Lindsay Hansen Park explores polygamy and interviews members of polygamous groups `truth claim`
 - [video: ex-polygamist gives tour of Colorado City](https://www.youtube.com/watch?v=3xpThXnPI2A) 
 - [letter: Smith compels wives to keep polygamy secret from Emma](https://www.josephsmithpapers.org/paper-summary/letter-to-newel-k-elizabeth-ann-smith-and-sarah-ann-whitney-18-august-1842/1) `faithful`
+- [website: charting polygamy](https://thelinguist.github.io/charting-polygamy/gallery) - showcases polygamy in early church history
 
 ## Leaks and Whistleblowing
 **[`^        back to top        ^`](#awesome-mormon-)**
@@ -265,6 +266,7 @@ Tools for understanding Mormonism and the Mormon (and Postmormon) population.
 - [website: general conference corpus](https://www.lds-general-conference.org/) – a searchable, linguistic-friendly database of ALL general conference talks - `faithful`
 - [website: quitmormon.com](https://quitmormon.com/) – LDS Church resignation helper
 - [website: todayinmormonhistory.com](http://todayinmormonhistory.com) – interesting facts about mormonism on a given calendar date
+- [website: charting polygamy](https://thelinguist.github.io/charting-polygamy) - identifies and charts polygamy in family trees
 
 ## Contribute
 
